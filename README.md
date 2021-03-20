@@ -13,3 +13,5 @@ _Repositório para os alunos de Ciência da Computação do 2020.2 resolverem qu
 - Tuplas
 - Listas
 - Dicionários 
+
+![Primeiros Passos](https://github.com/Thairocine/Quest-esPython/blob/main/download.gif) 
