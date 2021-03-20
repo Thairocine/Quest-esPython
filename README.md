@@ -1,13 +1,6 @@
 # Questões Python  
 
-
-
-![Primeiros Passos](https://github.com/Thairocine/Quest-esPython/blob/main/giphy.gif) 
-
-
-
-
-_Repositório para os alunos de Ciência da Computação do 2020.2 resolverem questões sobre Python._ 
+_Repositório para os alunos de Ciência da Computação da UFCG resolverem questões sobre Python._ 
 
 # Principais Assuntos 
 
