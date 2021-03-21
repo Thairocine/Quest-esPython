@@ -24,7 +24,7 @@ _Repositório para os alunos de Ciência da Computação da UFCG resolverem ques
 
 ![Primeiros Passos](https://github.com/Thairocine/Quest-esPython/blob/main/download.gif)   
 
-## Entrada e Saída
+## Entrada e Saída :octocat:
 
 _Para entender melhor sobre entrada e saída de dados é necessário saber como o computador pode receber sua entrada, que pode ser atráves de linha de comando, teclado, entre outros. Em Python, a principal forma de um programa receber seus dados é por meio da funcionalidade "input", que permite o usuário a informar alguns dados que deseja._ 
 
