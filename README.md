@@ -1,4 +1,4 @@
-# Questões Python  
+# Questões Python ![](https://github.com/Thairocine/Quest-esPython/blob/main/Captura%20de%20tela%20de%202021-03-21%2008-08-21.png)
 
 _Repositório para os alunos de Ciência da Computação da UFCG resolverem questões sobre Python._ 
 
