@@ -10,8 +10,6 @@ _Repositório para os alunos de Ciência da Computação da UFCG resolverem ques
 - Ajudar iniciantes que queiram aprender a linguagem de uma forma mais didática e prática 
 - Engajar os estudantes de Ciência da Computação a dar seus primeiros passos no GitHub com a primeira linguagem vista na universidade
 
-![](https://github.com/Thairocine/Quest-esPython/blob/main/Captura%20de%20tela%20de%202021-03-21%2008-04-10.png)
-
 ## Principais Assuntos 
 
 - Entrada e Saida 
@@ -56,7 +54,6 @@ idade = int(input())
 _Mas o que seriam os inteiros?_ 
 
 _São os números que são positivos, ou negativos, ou zero, sem parte decimal. Por exemplo, os números 5 , -5 , 0 , 1 , 4._ 
-
 
 
 Para ler dados com números reais precisamos do float, como exemplo, podemos escrever o seguinte programinha: 
