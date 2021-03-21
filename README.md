@@ -37,8 +37,6 @@ nome = input()
 cidade = input() 
 idade = input() 
 
-
-
 Acredito que nessa altura do campeonato, você esteja se perguntando como o Python através das variáveis e do input ler dados de entrada como números reais, números inteiros, booleanos ( True ou False) e textos? 
 
 Para ler dados com números inteiros precisamos do int, como exemplo, podemos escrever o seguinte programinha:  
