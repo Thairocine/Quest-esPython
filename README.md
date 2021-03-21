@@ -8,6 +8,9 @@ _Repositório para os alunos de Ciência da Computação da UFCG resolverem ques
 - Resumos sobre assuntos referentes a Linguagem de Programação Python 
 - Questões 
 - Ajudar iniciantes que queiram aprender a linguagem de uma forma mais didática e prática 
+- Engajar os estudantes de Ciência da Computação a dar seus primeiros passos no GitHub com a primeira linguagem vista na universidade
+
+![](https://github.com/Thairocine/Quest-esPython/blob/main/Captura%20de%20tela%20de%202021-03-21%2008-04-10.png)
 
 ## Principais Assuntos 
 
