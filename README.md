@@ -2,6 +2,13 @@
 
 _Repositório para os alunos de Ciência da Computação da UFCG resolverem questões sobre Python._ 
 
+
+## Objetivos Gerais 
+
+- Resumos sobre assuntos referentes a Linguagem de Programação Python 
+- Questões 
+- Ajudar iniciantes que queiram aprender a linguagem de uma forma mais didática e prática 
+
 ## Principais Assuntos 
 
 - Entrada e Saida 
