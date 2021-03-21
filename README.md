@@ -36,10 +36,22 @@ idade = input()
 
 Acredito que nessa altura do campeonato, você esteja se perguntando como o Python através das variáveis e do input ler dados de entrada como números reais, números inteiros, booleanos ( True ou False) e textos? 
 
- Para ler dados com números inteiros precisamos do int, como exemplo, podemos escrever o seguinte programinha: 
+Para ler dados com números inteiros precisamos do int, como exemplo, podemos escrever o seguinte programinha:  
 
 idade = int(input()) 
 
+Mas o que seriam os inteiros? 
+
+São os números que são positivos, ou negativos, ou zero, sem parte decimal. Por exemplo, os números 5 , -5 , 0 , 1 , 4. 
+
 Para ler dados com números reais precisamos do float, como exemplo, podemos escrever o seguinte programinha: 
 
-preco_pizza = float(input()) 
+preco_pizza = float(input())  
+
+Mas o que seriam números reais? 
+
+- Números Naturais (N): N = {0, 1, ..}
+- Números Inteiros (Z): Z= {-2, -1, 0, 1, 2...}
+- Números Racionais (Q): Q = {...,1/2, 3/4, –5/4...}
+- Números Irracionais (I): I = {...,√2, √3,√7, 3,141592....}
+
