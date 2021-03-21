@@ -24,7 +24,10 @@ A função *input* do Python recebe um parâmetro que é uma string. A string é
 
 
 ![](https://github.com/Thairocine/Quest-esPython/blob/main/giphy%20(1).gif)
+
 Podemos perceber através desse gif que através do input, o usuário pode digitar um dado. 
+
+
 
 Entretanto, você deve está se perguntando o que seria o "nome = input()" ? Bom, o "nome" corresponde a como iremos chamar nossa variável, o "=" o que iremos atribuir a ela. 
 
@@ -34,15 +37,19 @@ nome = input()
 cidade = input() 
 idade = input() 
 
+
+
 Acredito que nessa altura do campeonato, você esteja se perguntando como o Python através das variáveis e do input ler dados de entrada como números reais, números inteiros, booleanos ( True ou False) e textos? 
 
 Para ler dados com números inteiros precisamos do int, como exemplo, podemos escrever o seguinte programinha:  
 
 idade = int(input()) 
 
-Mas o que seriam os inteiros? 
+_Mas o que seriam os inteiros?_ 
 
-São os números que são positivos, ou negativos, ou zero, sem parte decimal. Por exemplo, os números 5 , -5 , 0 , 1 , 4. 
+_São os números que são positivos, ou negativos, ou zero, sem parte decimal. Por exemplo, os números 5 , -5 , 0 , 1 , 4._ 
+
+
 
 Para ler dados com números reais precisamos do float, como exemplo, podemos escrever o seguinte programinha: 
 
