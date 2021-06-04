@@ -1,0 +1,9 @@
+def converteFahreint(celsius):
+
+    Fahreint = celsius * (9/5) + 32
+    
+    return Fahreint
+
+valor_temperatura_celsius = float(input())
+
+print(converteFahreint(valor_temperatura_celsius))
