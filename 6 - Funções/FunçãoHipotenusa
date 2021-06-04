@@ -1,0 +1,14 @@
+def calculaHipotenusa(a,b):
+    a_elevado = a * a
+
+    b_elevado = b * b
+    
+    hipotenusa = (a_elevado + b_elevado) ** (1 / 2)
+
+    return hipotenusa
+
+
+a = float(input())
+b = float(input())
+
+print(calculaHipotenusa(a,b))
